@@ -1,0 +1,11 @@
+certifi==2021.5.30
+chardet==4.0.0
+et-xmlfile==1.1.0
+idna==2.10
+openpyxl==3.0.7
+Pillow==8.2.0
+pyocclient==0.6
+PyQRCode==1.2.1
+requests==2.25.1
+six==1.16.0
+urllib3==1.26.6
